@@ -6,9 +6,6 @@ notebook~=7.5.1
 # Python kernel (optional)
 jupyterlite-pyodide-kernel==0.7.0
 
-# P5 kernel (optional)
-jupyterlite-p5-kernel==0.1.0
-
 # JupyterLab: Fasta file renderer (optional)
 jupyterlab-fasta>=3.3.0,<4
 # JupyterLab: guided tour (optional)
@@ -18,7 +15,7 @@ jupyterlab-fasta>=3.3.0,<4
 jupyterlab-night
 
 # Python: ipywidget library for Jupyter notebooks (optional)
-ipywidgets
+ipywidgets=8.1.3,<9
 # Python: ipyevents library for Jupyter notebooks (optional)
 ipyevents>=2.0.1
 # Python: interative Matplotlib library for Jupyter notebooks (optional)
@@ -31,8 +28,3 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=6,<7
 bqplot
-
-# Other things
-numpy
-scipy
-tqdm
