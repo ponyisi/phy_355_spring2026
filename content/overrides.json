@@ -1,0 +1,11 @@
+{
+    "overrides": {
+        "content-font-size1": "18px",
+        "code-font-size": "18px"
+    },
+    "theme": "JupyterLab Light",
+    "adaptive-theme": false,
+    "preferred-light-theme": "JupyterLab Light",
+    "preferred-dark-theme": "JupyterLab Dark",
+    "theme-scrollbars": false
+}
